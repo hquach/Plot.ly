@@ -1,4 +1,4 @@
 # Plot.ly
-Plot.ly Sample Scripts
+Plot.ly Sample Scripts with RShiny
 
-Shiny Web Application in R - App-03
+USMaps
