@@ -1,4 +1,5 @@
-#URL: https://plot.ly/~hoaquach/7
+# URL: https://plot.ly/~hoaquach/7
+# Embeded URL: https://plot.ly/~hoaquach/7.embed
 
 # Library
 library(plotly)
